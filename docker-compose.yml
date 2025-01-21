@@ -9,7 +9,9 @@ services:
       - url-service
 
   url-service:
-    build: ./services/url-service
+    build:
+      context: ./services/url-service
+      dockerfile: Dockerfile
     ports:
       - "8001:8000"
     depends_on:
