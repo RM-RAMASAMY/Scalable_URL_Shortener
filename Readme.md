@@ -1,4 +1,4 @@
-# Scalable URL Shortener (in progress)
+# URL Shortener
 
 <br>
 
