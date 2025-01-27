@@ -18,4 +18,4 @@ This project is useful for managing and sharing long URLs in a more convenient a
 
 Below is the architecture diagram for the Scalable URL Shortener:
 
-![Architecture Diagram](system.png)
+![Architecture Diagram](system.jpg)
